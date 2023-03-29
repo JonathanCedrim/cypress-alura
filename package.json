@@ -1,0 +1,22 @@
+{
+  "name": "cypress-alura",
+  "version": "1.0.0",
+  "description": "working with Cypress to test end-to-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JonathanCedrim/cypress-alura.git"
+  },
+  "author": "Jonathan Cedrim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanCedrim/cypress-alura/issues"
+  },
+  "homepage": "https://github.com/JonathanCedrim/cypress-alura#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
