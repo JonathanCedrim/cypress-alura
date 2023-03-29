@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonathanCedrim/cypress-alura/issues"
   },
-  "homepage": "https://github.com/JonathanCedrim/cypress-alura#readme"
+  "homepage": "https://github.com/JonathanCedrim/cypress-alura#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
 }
